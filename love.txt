@@ -11,3 +11,4 @@ modify on dev:dsjkdfkdk
 
 git is free software.
 
+测试同时修改一个文件。
